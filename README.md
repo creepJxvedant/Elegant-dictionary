@@ -11,10 +11,6 @@
 - 🌙 Light/Dark mode toggle
 - ⚡ Fully responsive design
 
-## 🖼️ Preview
-
-![Elegant Dictionary Screenshot](./public/preview.png)  
-*(Add your own screenshot in the public folder or update the path)*
 
 ---
 
